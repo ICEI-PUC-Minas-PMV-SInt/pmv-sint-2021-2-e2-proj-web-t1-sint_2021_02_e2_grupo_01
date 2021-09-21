@@ -6,7 +6,7 @@ DISCIPLINA: Projeto - Aplicações Web
 
 SEMESTRE: Turma 1 - 2021/2
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+AstroCal é um site voltado para informações sobre eventos astronômicos. Com layout intuitivo e simplificado, permitimos que diversos usuários entusiastas ou profissionais de diversas áreas, acessem a plataforma para consultar ou inserir informações sobre os eventos, fomentando um calendário mensal e anual colaborativo.
 
 ## Integrantes
 
