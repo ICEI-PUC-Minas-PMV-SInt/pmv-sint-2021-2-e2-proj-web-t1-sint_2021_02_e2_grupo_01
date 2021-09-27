@@ -11,12 +11,12 @@ AstroCal é um site voltado para informações sobre eventos astronômicos. Com 
 ## Integrantes
 
 
-    Ana Luiza Lima
-    Déborah Freitas de Souza
-    Erick Ribeiro
-    Thais Helena
-    Paulo Henrique Moura Da Silva
-    Carolina Dolacio Bechelli
+- Ana Luiza Lima
+- Déborah Freitas de Souza
+- Erick Ribeiro
+- Thais Helena
+- Paulo Henrique Moura Da Silva
+- Carolina Dolacio Bechelli
 
 
 ## Orientador
