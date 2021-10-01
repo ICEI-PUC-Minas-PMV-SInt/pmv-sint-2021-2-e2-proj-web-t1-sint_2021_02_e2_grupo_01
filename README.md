@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# Aplicação WEB para consultas de eventos astronômicos
 
 CURSO: Sistemas para Internet
 
