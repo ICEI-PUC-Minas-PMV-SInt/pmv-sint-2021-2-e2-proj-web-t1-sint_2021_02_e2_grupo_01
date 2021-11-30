@@ -25,7 +25,12 @@ Nathalia Assis Valentim
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+Para poder acessar o site desenvolvido é necessário seguir as seguintes etapas: 
+1- Acessar a pasta V2\Astrocal;
+2- Realizar o comando npm install para poder instalar as dependências do node js;
+3- Realizar o comando npm start para abrir a página.
+
+Vale ainda ressaltar que na pasta V1\Astrocal está contido o trabalho realizado no primeiro período e na pasta V2\Astrocal está contido o trabalho realizado no presente período.
 
 # Documentação
 
