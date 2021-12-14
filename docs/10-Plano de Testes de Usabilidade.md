@@ -13,7 +13,7 @@ Produto: AstroCal
 
 > Teste nº: 0001
 >
-> Data: 06/07/2021
+> Data: 01/11/2021
 >
 >Início da sessão: 16h48 - Horário de Brasília
 >
@@ -38,7 +38,7 @@ se o produto foi testado com a amostra correta.
 
 **Nome**: Natalia T. A Menezes
 
-**Idade**:25 anos
+**Idade**:26 anos
 
 **Experiência de uso da internet**:
 
